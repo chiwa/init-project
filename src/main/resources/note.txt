@@ -1,0 +1,4 @@
+java -Dserver.port=9999 -Dmy-name="chiwa kantawong" -jar zengcode-1.0-SNAPSHOT.jar
+
+java -Dspring.config.location=/home/chiwa/POC/application.yml -jar target/biotec-1.0-SNAPSHOT.jar
+
